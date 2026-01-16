@@ -1,0 +1,37 @@
+/* Menu specific styles - Mobile First */
+.menu-container {
+  min-height: 100vh;
+  -webkit-overflow-scrolling: touch;
+}
+
+.hero-video {
+  object-fit: cover;
+}
+
+/* Hide scrollbar for horizontal scroll on mobile */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Smooth scrolling for mobile */
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Better touch feedback */
+button {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+/* Optimize images for mobile */
+img {
+  -webkit-user-drag: none;
+  user-select: none;
+}
