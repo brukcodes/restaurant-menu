@@ -43,7 +43,7 @@ Update this section to reflect the actual stack in the repository. Examples:
 - Backend: Node.js (Express), Python (Flask/FastAPI), or serverless functions
 - Data store: JSON file, SQLite, MongoDB, or Postgres
 
-Example placeholder:
+Example placeholder;
 - Node.js 18+, npm or yarn
 - PostgreSQL (optional)
 - Docker (optional)
@@ -103,7 +103,7 @@ docker run -p 3000:3000 restaurant-menu
 
 ## Configuration
 
-Create a `.env` file in the project root and set any required environment variables. Example:
+Create a `.env` file in the project root and set any required environment variables. Example;
 ```
 PORT=3000
 DATABASE_URL=postgres://user:password@localhost:5432/restaurant_menu
