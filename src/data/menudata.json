@@ -63,7 +63,7 @@
           "description": "Japanese stir-fried wheat noodles with chicken and vegetables",
           "available": false,
           "spiceLevel": 1,
-          "calories": 480,
+          "calories": 420,
           "prepTime": "10 mins",
           "ingredients": "Wheat noodles, chicken, cabbage, carrots, yakisoba sauce",
           "allergens": "Gluten, Soy"
@@ -83,7 +83,7 @@
           "description": "Pan-fried pork dumplings with ginger soy dipping sauce",
           "available": true,
           "spiceLevel": 1,
-          "calories": 280,
+          "calories": 230,
           "prepTime": "8 mins",
           "ingredients": "Pork, cabbage, ginger, soy sauce, dumpling wrapper",
           "allergens": "Gluten, Soy"
@@ -98,7 +98,7 @@
           "description": "Fresh vegetables and herbs wrapped in rice paper with peanut sauce",
           "available": true,
           "spiceLevel": 0,
-          "calories": 180,
+          "calories": 120,
           "prepTime": "5 mins",
           "ingredients": "Rice paper, lettuce, herbs, carrots, cucumber, peanut sauce",
           "allergens": "Peanuts"
