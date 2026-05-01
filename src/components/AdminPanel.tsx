@@ -39,7 +39,7 @@ export const AdminPanel = ({
     const newItem: MenuItem = {
       id: Date.now(),
       name: "New Dish",
-      price: 9.99,
+      price: 0.99,
       birrprice: 9.99,
       image: "",
       video: "",
