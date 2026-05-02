@@ -357,7 +357,7 @@
           "id": 11,
           "name": "Green Tea Ice Cream",
           "price": 4.99,
-          "birrprice": 14.99,
+          "birrprice": 13.99,
           "video": "./src/assets/green tea icecream.mp4",
           "image": "./src/assets/green tea ice cream.jpg",
           "description": "Creamy matcha ice cream with red bean topping",
