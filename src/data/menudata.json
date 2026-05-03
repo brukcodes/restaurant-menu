@@ -326,7 +326,7 @@
           "video": "./src/assets/fresh lemonade.mp4",
           "image": "./src/assets/fresh lemonade.jpg",
           "description": "Freshly squeezed lemon juice with mint and sparkling water",
-          "available": true,
+          "available": false,
           "spiceLevel": 3,
           "calories": 80,
           "prepTime": "2 mins",
