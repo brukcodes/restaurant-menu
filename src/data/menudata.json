@@ -321,7 +321,7 @@
         {
           "id": 10,
           "name": "Fresh Lemonade",
-          "price": 3.99,
+          "price": 3.89,
           "birrprice": 14.99,
           "video": "./src/assets/fresh lemonade.mp4",
           "image": "./src/assets/fresh lemonade.jpg",
