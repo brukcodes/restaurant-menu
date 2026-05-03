@@ -306,7 +306,7 @@
         {
           "id": 6,
           "name": "Thai Iced Tea",
-          "price": 4.99,
+          "price": 3.99,
           "birrprice": 14.99,
           "video": "./src/assets/iced tea.mp4",
           "image": "./src/assets/iced tea.jpg",
