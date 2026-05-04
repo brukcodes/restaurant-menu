@@ -257,7 +257,7 @@
           "id": 21,
           "name": "Spicy Ramen",
           "price": 14.99,
-          "birrprice": 14.99,
+          "birrprice": 1114.99,
           "video": "./src/assets/spicey ramen.mp4",
           "image": "./src/assets/ramen.jpg",
           "description": "Rich tonkotsu broth with tender chashu pork, soft-boiled egg, and fresh scallions",
