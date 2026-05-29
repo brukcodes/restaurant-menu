@@ -204,5 +204,3 @@ For questions, issues, or feature requests, open an issue in the repository:
 https://github.com/brukcodes/restaurant-menu/issues
 
 ---
-
-Feel free to ask me to adapt this README to the specific tech stack and commands used in your repository — I can update install/run instructions, examples, and badges accordingly.
